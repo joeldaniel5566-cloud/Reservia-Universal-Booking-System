@@ -227,9 +227,9 @@ Reservia was developed as a collaborative group project.
 
 **Team Members:**
 
-- [Joel Daniel]
-- [Yashu Gupta]
-- [Krisha Mohile]
+- Joel Daniel
+- Yashu Gupta
+- Krisha Mohile
 
 ---
 
