@@ -24,17 +24,16 @@ The main objective of Reservia is to simplify the booking experience by bringing
 
 \<!-- Add your application screenshots here -->
 
-| Home Page | Wallet |
-| <img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/551e4ae5-d855-4e90-9c5e-49020acc498b" />
- | <img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/d743ede6-15cb-498e-8e9b-a697efe4d591" />
- |
-|           |        |
+| Home Page | 
+<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/551e4ae5-d855-4e90-9c5e-49020acc498b" />
 
-| Booking Management | Travel Selection |
-| <img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/76ea6d19-ce01-4a66-807b-6bcf473d96e1" />
- | <img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/8fa6ef5b-6f82-4281-aac3-3b45bffb528b" />
- |
-|                    |                  |
+| Wallet |
+<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/d743ede6-15cb-498e-8e9b-a697efe4d591" />
+
+| Booking Management |
+<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/76ea6d19-ce01-4a66-807b-6bcf473d96e1" />
+|  Travel Selection |
+<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/8fa6ef5b-6f82-4281-aac3-3b45bffb528b" />
 
 ---
 
