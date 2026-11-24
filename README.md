@@ -1,15 +1,5 @@
 # ✈️ Reservia – Universal Booking System
 
-\<p align="center">
-&#x20; \<strong>One Platform. Multiple Destinations. Seamless Bookings.\</strong>
-\</p>
-
-\<p align="center">
-&#x20; A Java-based desktop application that brings multiple booking services together in one convenient platform.
-\</p>
-
----
-
 ## 📌 About The Project
 
 **Reservia** is a Universal Booking System developed using Java Swing and MySQL. It provides users with a single desktop application to explore, book, and manage different services, including travel, movies, hotels, and restaurants.
@@ -21,8 +11,6 @@ The main objective of Reservia is to simplify the booking experience by bringing
 ---
 
 ## 📸 Application Preview
-
-\<!-- Add your application screenshots here -->
 
 | Home Page | 
 <img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/551e4ae5-d855-4e90-9c5e-49020acc498b" />
@@ -258,6 +246,3 @@ This project is licensed under the MIT License.
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Reservia – Making Every Booking Simpler.\</strong>
-\</p>
